@@ -2,7 +2,7 @@
 
 ## About Me
 
-Aspiring Data Analyst with hands-on experience in Python, data cleaning, exploratory data analysis, statistical analysis, and data visualization.
+Aspiring Data Analyst with practical experience in Python, data cleaning, exploratory data analysis, statistical analysis, data visualization, and interactive web applications.
 
 I have completed several end-to-end projects involving real-world datasets, applying analytical techniques to uncover insights and support data-driven decision-making.
 
@@ -36,7 +36,7 @@ https://vehicles-app-epdt.onrender.com
 ### 🎮 Video Game Sales Analysis
 Analysis of historical video game sales data to identify patterns associated with commercially successful games and support marketing decisions.
 
-**Technologies:** Python, Pandas, Matplotlib, SciPy
+**Technologies:** Python, Pandas, NumPy, Matplotlib, SciPy
 
 Repository:
 https://github.com/etienne-94/video-game-sales-analysis
