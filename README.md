@@ -103,7 +103,7 @@ GitHub:
 https://github.com/etienne-94
 
 LinkedIn:
-(https://www.linkedin.com/in/etienneviegassantos/)
+https://www.linkedin.com/in/etienneviegassantos/
 
 <!--
 **etienne-94/etienne-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
