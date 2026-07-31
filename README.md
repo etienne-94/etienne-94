@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-profile-banner.png" width="100%" alt="Etienne Santos Banner">
+</p>
+
 # Hi, I'm Etienne Santos 👋
 
 ## About Me
