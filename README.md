@@ -1,79 +1,90 @@
-<p align="center">
+ <p align="center">
   <img src="github-profile-banner.png" width="100%" alt="Etienne Santos Banner">
 </p>
 
 # Hi, I'm Etienne Santos 👋
 
+### Aspiring Data Analyst | Python | SQL | Business Analytics
+
 ## About Me
 
-Aspiring Data Analyst with practical experience in Python, data cleaning, exploratory data analysis, statistical analysis, data visualization, and interactive web applications.
+Aspiring Data Analyst with hands-on experience in data analysis, data cleaning, exploratory data analysis, statistical analysis, and data visualization.
 
-I have completed several end-to-end projects involving real-world datasets, applying analytical techniques to uncover insights and support data-driven decision-making.
+Through the Data Analytics program at TripleTen, I have developed practical skills by working on end-to-end projects involving real-world datasets, transforming raw data into meaningful insights to support data-driven business decisions.
 
-Currently building a portfolio focused on:
+My analytical interests include understanding customer behavior, identifying business trends, evaluating performance, and communicating insights through clear visualizations and interactive applications.
 
-- Python Programming
-- Data Cleaning & Preprocessing
+Currently developing my skills in:
+
+- Data Analysis with Python and SQL
+- Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
-- Statistical Data Analysis
-- Data Visualization
-- Interactive Web Applications
-- Version Control with Git & GitHub
+- Statistical Hypothesis Testing
+- Customer and Cohort Analysis
+- Business and Marketing Analytics
+- Data Visualization and Reporting
 
 ---
 
 ## Featured Projects
 
-### 🚗 Vehicles App
-Interactive Streamlit web application for exploring and visualizing used vehicle sales data.
+### 📊 [Y.Afisha — Marketing, Sales and Business Analysis](https://github.com/etienne-94/y-afisha-marketing-analysis)
 
-**Technologies:** Python, Pandas, Plotly, Streamlit, Render
+End-to-end business analysis of an online entertainment platform, investigating user behavior, sales performance, customer lifetime value, and marketing investment efficiency.
 
-Repository:
-https://github.com/etienne-94/vehicles-app
+**Key areas:** DAU, WAU, MAU, conversion rates, LTV, CAC, ROMI, cohort analysis, and CAC payback.
 
-Live Demo:
-https://vehicles-app-epdt.onrender.com
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook.
 
 ---
 
-### 🎮 Video Game Sales Analysis
-Analysis of historical video game sales data to identify patterns associated with commercially successful games and support marketing decisions.
+### 🚕 [Chicago Taxi Demand Analysis](https://github.com/etienne-94/chicago-taxi-demand-analysis)
 
-**Technologies:** Python, Pandas, NumPy, Matplotlib, SciPy
+Analysis of Chicago taxi demand to identify temporal patterns, investigate weather-related factors, and test statistical hypotheses.
 
-Repository:
-https://github.com/etienne-94/video-game-sales-analysis
+**Key areas:** SQL queries, data exploration, weather analysis, and statistical hypothesis testing.
 
----
-
-### 📱 Megaline Plan Profitability Analysis
-Statistical analysis comparing telecom plans to determine which generates more revenue.
-
-**Technologies:** Python, Pandas, NumPy, Matplotlib, SciPy
-
-Repository:
-https://github.com/etienne-94/megaline-plan-profitability-analysis
+**Technologies:** Python, SQL, Pandas, NumPy, SciPy, Matplotlib.
 
 ---
 
-### 🛒 Instacart Customer Behavior Analysis
+### 🎮 [Video Game Sales Analysis](https://github.com/etienne-94/video-game-sales-analysis)
+
+Exploratory and statistical analysis of historical video game sales data to identify market trends and factors associated with commercial success.
+
+**Key areas:** sales trends, regional market analysis, platform performance, and hypothesis testing.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, SciPy.
+
+---
+
+### 🚗 [Vehicles App](https://github.com/etienne-94/vehicles-app)
+
+Interactive web application for exploring and visualizing used vehicle sales data through dynamic charts and data-driven insights.
+
+**Technologies:** Python, Pandas, Plotly, Streamlit, Render.
+
+**Live Demo:** [Open Vehicles App](https://vehicles-app-epdt.onrender.com)
+
+---
+
+### 📱 [Megaline Plan Profitability Analysis](https://github.com/etienne-94/megaline-plan-profitability-analysis)
+
+Statistical analysis comparing two prepaid telecom plans to determine which generates higher revenue and offers better business performance.
+
+**Key areas:** revenue analysis, customer behavior, descriptive statistics, and hypothesis testing.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, SciPy.
+
+---
+
+### 🛒 [Instacart Customer Behavior Analysis](https://github.com/etienne-94/instacart-customer-behavior-analysis)
+
 Exploratory analysis of customer purchasing behavior using Instacart transaction data.
 
-**Technologies:** Python, Pandas, Matplotlib
+**Key areas:** data cleaning, preprocessing, order patterns, and customer purchasing behavior.
 
-Repository:
-https://github.com/etienne-94/instacart-customer-behavior-analysis
-
----
-
-### 🐍 Python Foundations Projects
-Collection of foundational Python projects covering data processing, data cleaning, loops, functions, lists, dictionaries, and basic analytical workflows.
-
-**Technologies:** Python, Jupyter Notebook
-
-Repository:
-https://github.com/etienne-94/python-foundations-projects
+**Technologies:** Python, Pandas, NumPy, Matplotlib.
 
 ---
 
@@ -81,6 +92,7 @@ https://github.com/etienne-94/python-foundations-projects
 
 ### Programming & Data Analysis
 - Python
+- SQL
 - Pandas
 - NumPy
 - SciPy
@@ -88,39 +100,40 @@ https://github.com/etienne-94/python-foundations-projects
 ### Data Visualization
 - Matplotlib
 - Plotly
-- Seaborn
+
+### Analytics & Statistics
+- Exploratory Data Analysis (EDA)
+- Statistical Hypothesis Testing
+- Cohort Analysis
+- Customer Lifetime Value (LTV)
+- Customer Acquisition Cost (CAC)
+- Marketing Return on Investment (ROMI)
 
 ### Development Tools
-- Git
-- GitHub
 - Jupyter Notebook
 - VS Code
+- Git
+- GitHub
 
-### Deployment
+### Application Development & Deployment
 - Streamlit
 - Render
 
 ---
 
+## Currently Learning
+
+Continuously expanding my knowledge in Data Analytics, strengthening my Python and SQL skills, and developing projects that combine technical analysis with practical business problem-solving.
+
+---
+
 ## Contact
 
-GitHub:
-https://github.com/etienne-94
+- **GitHub:** [github.com/etienne-94](https://github.com/etienne-94)
+- **LinkedIn:** [linkedin.com/in/etienneviegassantos](https://www.linkedin.com/in/etienneviegassantos)
 
-LinkedIn:
-https://www.linkedin.com/in/etienneviegassantos/
+---
 
-<!--
-**etienne-94/etienne-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Turning data into insights and insights into better decisions.</i>
+</p>
