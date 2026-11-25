@@ -88,6 +88,7 @@ https://github.com/etienne-94/python-foundations-projects
 ### Data Visualization
 - Matplotlib
 - Plotly
+- Seaborn
 
 ### Development Tools
 - Git
